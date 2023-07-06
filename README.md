@@ -1,6 +1,6 @@
 # EasyScript
 
-#The idea although not yet create is to have a liberary that could be used to easily alow users of a c# application write c# code that will be used by the application.
+#The idea although not yet created is to have a liberary that could be used to easily alow users of a c# application write c# code that will be used by the application.
 
 #Good example might be a game engine.
 #Also could see it being used by some larger companies even if they did not want there users to create the scripts could be powerfull with LLMs at some point alow for some power full automation potentially.
