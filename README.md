@@ -8,5 +8,6 @@
 #Ideally will keep it low in code and fast as possbile so that it will be stable, reliable and fast.
 
 #Implementations specifics are still in the works.
-
+#I intend on creating a nuget package for it.
+#Also a sample project as soon as I get a working version up and running.
 #Documentation will come after implemention.
